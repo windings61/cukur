@@ -1,5 +1,51 @@
 body{
-    background-color: lightslategray;
+    background-color: #111;
     font-family: sans-serif;
     color: #F1F5F9;
+    align-items: center;
+}
+.div0{
+    display: flex;
+}
+.div1{
+   background-image: url('https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png');
+   background-size: cover;
+   background-position: center;
+   width: 500px;
+   height: 900px;
+   margin-left: auto;
+   margin-right: auto;
+}
+.div2{
+    background-color: #075e54;
+    width: 500px;
+    overflow: hidden;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+    display: flex;
+    gap: 10px;
+}
+.p1{
+    margin: 20px 0 0 0 ;
+}
+.div4{
+    border-radius: 50%;
+    background-color: purple;
+    width: 50px;
+    height: 50px;
+    margin: 10px 0 0 10px;
+}
+.p2{
+    color: lightpink;
+    margin: 8px 0 0 15px;
+}
+.div5{
+    margin-left:auto;
+    margin-right:auto;
+    border-radius: 99999px;
+    background-color: bisque;
+    width: 70px;
+    color: rgb(153, 155, 130);
 }
